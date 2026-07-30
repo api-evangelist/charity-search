@@ -1,4 +1,16 @@
 aid: charity-search
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/charity-search.png
 name: Charity Search
 description: "Non-profit charity data"
 url: http://charityapi.orghunter.com/
