@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'http://charityapi.orghunter.com/', status: 308, note: 'declared website redirects to https://charityapi.com/ — a different registrable domain (orghunter.com -> charityapi.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/charity-search.png
 name: Charity Search
 description: "Non-profit charity data"
