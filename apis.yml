@@ -41,7 +41,6 @@ apis:
   - name: Charity Search
     description: "Non-profit charity data"
     humanURL: http://charityapi.orghunter.com/
-    baseURL: http://charityapi.orghunter.com/
     tags:
       - Business
     properties:
